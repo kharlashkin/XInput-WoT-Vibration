@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<uberwoorf_vibro_effect>
+  <vibration_1 comment="" zones="808" looped="false">
+    <vpoint_1 time="0" amplitude="10" time_relative="false"/>
+    <vpoint_2 time="150" amplitude="80" time_relative="false"/>
+    <vpoint_3 time="150" amplitude="0" time_relative="true"/>
+    <vpoint_4 time="1000" amplitude="0" time_relative="false"/>
+    <vpoint_5 time="1000" amplitude="50" time_relative="false"/>
+    <vpoint_6 time="1090" amplitude="50" time_relative="true"/>
+    <vpoint_7 time="1090" amplitude="0" time_relative="true"/>
+  </vibration_1>
+  <vibration_2 comment="" zones="404" looped="false">
+    <vpoint_1 time="0" amplitude="10" time_relative="false"/>
+    <vpoint_2 time="150" amplitude="100" time_relative="false"/>
+    <vpoint_3 time="150" amplitude="0" time_relative="false"/>
+    <vpoint_4 time="400" amplitude="0" time_relative="false"/>
+    <vpoint_5 time="700" amplitude="50" time_relative="false"/>
+    <vpoint_6 time="800" amplitude="50" time_relative="false"/>
+    <vpoint_7 time="1000" amplitude="0" time_relative="true"/>
+  </vibration_2>
+  <vibration_3 comment="" zones="202" looped="false">
+    <vpoint_1 time="150" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="750" amplitude="100" time_relative="true"/>
+    <vpoint_3 time="850" amplitude="0" time_relative="true"/>
+    <vpoint_4 time="1100" amplitude="0" time_relative="false"/>
+    <vpoint_5 time="1100" amplitude="80" time_relative="true"/>
+    <vpoint_6 time="1200" amplitude="80" time_relative="false"/>
+  </vibration_3>
+  <sound path=""/>
+</uberwoorf_vibro_effect>

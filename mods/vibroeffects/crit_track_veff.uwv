@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<uberwoorf_vibro_effect>
+  <vibration_1 comment="" zones="202" looped="false">
+    <vpoint_1 time="160" amplitude="200" time_relative="false"/>
+    <vpoint_2 time="200" amplitude="200" time_relative="true"/>
+    <vpoint_3 time="200" amplitude="0" time_relative="true"/>
+    <vpoint_4 time="280" amplitude="0" time_relative="true"/>
+    <vpoint_5 time="280" amplitude="200" time_relative="true"/>
+    <vpoint_6 time="320" amplitude="200" time_relative="true"/>
+    <vpoint_7 time="320" amplitude="0" time_relative="true"/>
+  </vibration_1>
+  <vibration_2 comment="" zones="404" looped="false">
+    <vpoint_1 time="80" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="80" amplitude="200" time_relative="true"/>
+    <vpoint_3 time="120" amplitude="200" time_relative="true"/>
+    <vpoint_4 time="120" amplitude="0" time_relative="true"/>
+  </vibration_2>
+  <vibration_3 comment="" zones="A0A" looped="false">
+    <vpoint_1 time="0" amplitude="200" time_relative="false"/>
+    <vpoint_2 time="50" amplitude="200" time_relative="false"/>
+  </vibration_3>
+  <sound path=""/>
+</uberwoorf_vibro_effect>

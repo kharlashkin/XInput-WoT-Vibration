@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<uberwoorf_vibro_effect>
+  <vibration_1 comment="" zones="4" looped="false">
+    <vpoint_1 time="0" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="15750" amplitude="0" time_relative="false"/>
+  </vibration_1>
+  <vibration_2 comment="" zones="2" looped="true">
+    <vpoint_1 time="0" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="840" amplitude="0" time_relative="true"/>
+    <vpoint_3 time="1520" amplitude="2" time_relative="true"/>
+    <vpoint_4 time="2360" amplitude="0" time_relative="true"/>
+    <vpoint_5 time="4050" amplitude="0" time_relative="true"/>
+    <vpoint_6 time="4560" amplitude="2" time_relative="true"/>
+    <vpoint_7 time="5240" amplitude="0" time_relative="true"/>
+    <vpoint_8 time="6580" amplitude="0" time_relative="true"/>
+    <vpoint_9 time="7180" amplitude="2" time_relative="true"/>
+    <vpoint_10 time="8190" amplitude="0" time_relative="true"/>
+    <vpoint_11 time="8530" amplitude="0" time_relative="true"/>
+    <vpoint_12 time="8860" amplitude="2" time_relative="true"/>
+    <vpoint_13 time="9020" amplitude="0" time_relative="false"/>
+    <vpoint_14 time="10170" amplitude="0" time_relative="true"/>
+    <vpoint_15 time="11520" amplitude="2" time_relative="true"/>
+    <vpoint_16 time="11790" amplitude="0" time_relative="true"/>
+    <vpoint_17 time="12800" amplitude="0" time_relative="true"/>
+    <vpoint_18 time="13060" amplitude="2" time_relative="true"/>
+    <vpoint_19 time="13500" amplitude="0" time_relative="false"/>
+  </vibration_2>
+  <vibration_3 comment="" zones="200" looped="true">
+    <vpoint_1 time="0" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="390" amplitude="2" time_relative="true"/>
+    <vpoint_3 time="740" amplitude="0" time_relative="true"/>
+    <vpoint_4 time="1580" amplitude="0" time_relative="true"/>
+    <vpoint_5 time="1740" amplitude="2" time_relative="true"/>
+    <vpoint_6 time="2250" amplitude="0" time_relative="true"/>
+    <vpoint_7 time="3320" amplitude="0" time_relative="true"/>
+    <vpoint_8 time="3880" amplitude="2" time_relative="true"/>
+    <vpoint_9 time="4340" amplitude="0" time_relative="true"/>
+    <vpoint_10 time="5240" amplitude="0" time_relative="true"/>
+    <vpoint_11 time="5790" amplitude="2" time_relative="true"/>
+    <vpoint_12 time="6460" amplitude="0" time_relative="true"/>
+    <vpoint_13 time="6690" amplitude="0" time_relative="true"/>
+    <vpoint_14 time="6920" amplitude="2" time_relative="true"/>
+    <vpoint_15 time="7480" amplitude="0" time_relative="true"/>
+  </vibration_3>
+  <vibration_4 comment="" zones="4" looped="true">
+    <vpoint_1 time="0" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="20" amplitude="0" time_relative="true"/>
+    <vpoint_3 time="580" amplitude="2" time_relative="true"/>
+    <vpoint_4 time="1150" amplitude="0" time_relative="true"/>
+    <vpoint_5 time="2270" amplitude="0" time_relative="true"/>
+    <vpoint_6 time="2840" amplitude="2" time_relative="true"/>
+    <vpoint_7 time="3280" amplitude="0" time_relative="true"/>
+    <vpoint_8 time="4180" amplitude="0" time_relative="true"/>
+    <vpoint_9 time="4750" amplitude="2" time_relative="true"/>
+    <vpoint_10 time="5420" amplitude="0" time_relative="true"/>
+    <vpoint_11 time="6150" amplitude="0" time_relative="true"/>
+    <vpoint_12 time="6380" amplitude="2" time_relative="true"/>
+    <vpoint_13 time="6940" amplitude="0" time_relative="true"/>
+    <vpoint_14 time="7050" amplitude="0" time_relative="false"/>
+    <vpoint_15 time="7400" amplitude="2" time_relative="true"/>
+    <vpoint_16 time="7500" amplitude="0" time_relative="false"/>
+    <vpoint_17 time="7880" amplitude="0" time_relative="false"/>
+  </vibration_4>
+  <vibration_5 comment="" zones="400" looped="true">
+    <vpoint_1 time="0" amplitude="0" time_relative="false"/>
+    <vpoint_2 time="1010" amplitude="0" time_relative="true"/>
+    <vpoint_3 time="1580" amplitude="2" time_relative="true"/>
+    <vpoint_4 time="2250" amplitude="0" time_relative="true"/>
+    <vpoint_5 time="2980" amplitude="0" time_relative="true"/>
+    <vpoint_6 time="3210" amplitude="2" time_relative="true"/>
+    <vpoint_7 time="3750" amplitude="0" time_relative="true"/>
+    <vpoint_8 time="4700" amplitude="0" time_relative="true"/>
+    <vpoint_9 time="5490" amplitude="2" time_relative="true"/>
+    <vpoint_10 time="6390" amplitude="0" time_relative="true"/>
+    <vpoint_11 time="7460" amplitude="0" time_relative="true"/>
+    <vpoint_12 time="8020" amplitude="2" time_relative="true"/>
+    <vpoint_13 time="9000" amplitude="0" time_relative="false"/>
+  </vibration_5>
+  <sound path=""/>
+</uberwoorf_vibro_effect>
